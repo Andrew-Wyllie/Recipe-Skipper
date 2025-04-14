@@ -1,12 +1,11 @@
 # Recipe-Skipper
 Have you ever spent valuable minutes of your life scrolling past a preface to a recipe longer than the hobbit movies just to find you dont have the right ingredients. Well do we have the solution for you. With the all new Recipe Skipper chrome extension. Auto scroll to or extract the recipe right away. So don't delay, download today!
 
+## Test sites
 
-## Things to do next time
-
-1. Set up the GitHub
-2. fix the dsps getting picked up
-3. clean the format of the extraction
+# https://www.recipetineats.com/hot-cross-buns-recipe/
+# https://www.bbcgoodfood.com/recipes
+# https://www.simplyrecipes.com/recipes/lasagna/
 
 ## Project Overview
 
