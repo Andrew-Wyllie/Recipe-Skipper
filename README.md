@@ -18,7 +18,7 @@ The extension should:
 
 Could:
 
-1. Let the user save the Recipe in the clean, printable format
+1. Let the user save the Recipe in the clean, printable format along with the URL
 
 ## 2. Detection Methods
 
