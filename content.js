@@ -119,6 +119,7 @@ const RECIPE_SELECTORS = [
         if (text && text.length < 200) {  // Avoid huge paragraphs
           recipe.ingredients.push(text);
         }
+        //print(text)
       });
     });
     
